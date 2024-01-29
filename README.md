@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Imersão Front-end/2024 ALURA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aula 01: Revisão: HTML, CSS e JS na Prática
+Aula 02: Estilo Avançado e Posicionamento: Transformando Layouts
+Aula 03: Layout Flexbox, Pseudo-classes e Responsividade em CSS
+Aula 04: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
 
-## Available Scripts
+Disponível no github: https://github.com/RayanneMatos/spotify_imersao
+Deploy: https://rayannematos.github.io/spotify_imersao/
 
-In the project directory, you can run:
+Aula 05: Frameworks e Eficiência: Introdução ao React
 
-### `npm start`
+Disponível no github: https://github.com/RayanneMatos/spotify_imersao_react
+Deploy: spotify-imersao-react-joifyjxiq-rayannematos.vercel.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Versão do json-server : json-server@0.17.4
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+O que aprendi:
+Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools;
+Criar todo menu lateral da página;
+Aprender os fundamentos do CSS Flexbox;
+Saber mais sobre posicionamentos no CSS;
+Estruturar melhor o projeto;
+Refatorar o código;
+Fazer o layout flexbox;
+Aprender conceitos de responsividade;
+Criar o menu superior;
+Criar os cards da página inicial;
+Aprender a usar o CSS Grid Layout;
+Utilizar media queries para responsividade;
+Instalar do Node.js;
+Introduzir o JavaScript no projeto;
+Utilizar o conceito DOM;
+Conhecer o método Promises do JavaScript;
+Dar introdução a um projeto React;
+Utilizar o framework React para criar o componente <Header>;
+Aprender as diferenças entre Angular e React.
